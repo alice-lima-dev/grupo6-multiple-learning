@@ -35,7 +35,7 @@ body {
 }
 
 header {
-    background-color: var(--yellow);
+    background-color: var(--white);
     color: var(--black);
     /* min-height: 60px; */
     width: 100%;
@@ -150,3 +150,11 @@ footer{
     text-align: center;
 }
 
+#img{ 
+    background-image: url(../img/nome.PNG) fixed center;
+    align-items: flex-start;
+}
+
+#fyrebot_quiz{
+    align-items: center;
+}
