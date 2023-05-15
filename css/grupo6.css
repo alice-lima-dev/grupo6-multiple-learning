@@ -48,6 +48,7 @@ header {
 a {
     text-decoration: none;
     align-items: center;
+    display:contents;
 }
 
 ul {
